@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1730019593~exp=1730023193~hmac=518f765d53773616f2ca9b1031cb75097e1393bc362d7dcab8013c839c691b38&w=740"
+    },
+
+    {
+        "id": 2,
+        "name": "Comic Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 20,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1730019593~exp=1730023193~hmac=518f765d53773616f2ca9b1031cb75097e1393bc362d7dcab8013c839c691b38&w=740"
+    },
+
+    {
+        "id": 3,
+        "name": "Sports Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 50,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1730019593~exp=1730023193~hmac=518f765d53773616f2ca9b1031cb75097e1393bc362d7dcab8013c839c691b38&w=740"
+    },
+
+    {
+        "id": 4,
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 100,
+        "category": "Song",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1730019593~exp=1730023193~hmac=518f765d53773616f2ca9b1031cb75097e1393bc362d7dcab8013c839c691b38&w=740"
+    },
+
+    {
+        "id": 5,
+        "name": "Food Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 200,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1730019593~exp=1730023193~hmac=518f765d53773616f2ca9b1031cb75097e1393bc362d7dcab8013c839c691b38&w=740"
+    }
+]
